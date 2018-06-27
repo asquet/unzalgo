@@ -3,7 +3,6 @@
   "version": "2.1.1",
   "description": "Transforms ť͈͓̠̓̆ͅḥ͇͔̟̭̰̤̏̔̐̑ì̭̜͔ͯ͞s̈́̄̑͋̋͏̟͓̞͖͝ͅ into this without breaking internationalization",
   "main": "dist/index.js",
-  "module": "src/index.js",
   "homepage": "https://github.com/kdex/unzalgo#readme",
   "bugs": {
     "url": "https://github.com/kdex/unzalgo/issues"
