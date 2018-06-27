@@ -4,7 +4,6 @@
   "description": "Transforms ť͈͓̠̓̆ͅḥ͇͔̟̭̰̤̏̔̐̑ì̭̜͔ͯ͞s̈́̄̑͋̋͏̟͓̞͖͝ͅ into this without breaking internationalization",
   "main": "dist/index.js",
   "module": "src/index.js",
-  "files": ["src", ".babelrc"], 
   "homepage": "https://github.com/kdex/unzalgo#readme",
   "bugs": {
     "url": "https://github.com/kdex/unzalgo/issues"
@@ -15,8 +14,7 @@
     "compile": "babel src --out-dir dist",
     "lint": "eslint src",
     "prepublishOnly": "npm run check-commit && npm run prepublishOnly",
-    "test": "jest",
-    "postinstall": "npm run compile"
+    "test": "jest"
   },
   "jest": {
     "transform": {
